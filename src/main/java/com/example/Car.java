@@ -1,5 +1,5 @@
 package com.example;
 
 public class Car {
-	private int speed;
+	private int speed = 0;
 }
